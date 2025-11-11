@@ -2,6 +2,8 @@
 
 <small>PetSavior helps people discover adoptable pets by aggregating listings from participating shelters and making them searchable, filterable, and easy to share.</small>
 
+<img width="2188" height="1721" alt="ASOC" src="https://github.com/user-attachments/assets/35e130dc-e746-41ec-878c-098fd9d1ece0" />
+
 
 ---
 
@@ -105,8 +107,6 @@ PetSavior/
 - <small>Brandon Hu</small>  
 - <small>Jianqi (Alex) Shi</small>  
 - <small>Andy Martin-Valencia</small>
-
-
 
 
 
